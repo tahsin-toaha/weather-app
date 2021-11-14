@@ -1,0 +1,10 @@
+h1 {
+       color: lime
+}
+.lead{
+       color: darkcyan;
+       font-family: sans-serif;
+}
+.custom{
+       background-image:url("weather2.jfif");
+}
